@@ -1,0 +1,8 @@
+div {
+    border: 1px solid aquamarine;
+    box-shadow: 1px 1px 1px 1px aqua;
+    color: gray;
+    font-family: cursive;
+    margin: 26px;
+    padding: 5px;
+}
